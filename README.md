@@ -1,0 +1,2 @@
+# Time-series-regression-to-predict-the-residential-power-useage
+The main aim was to build a predictive model which can predict the future power usage of a two storied house in Houston, TX. I have used 3 years’ worth of data i.e., from 2017 to 2019, to predict the power usage of the first few days in the year 2020. The aim is to help the government to analyze the consumption of power going towards the future.
